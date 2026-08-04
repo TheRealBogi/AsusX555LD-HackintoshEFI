@@ -7,7 +7,7 @@ This EFI *might* work on the X554L or on other closely related models if they us
 
 The SMBIOS values in the EFI have been replaced with placeholders, make sure to generate your own SMBIOS for MacBookPro11,1.
 
-WARNING: Do NOT use this EFI if you haven't replaced the original HDD with an SSD. APFS can degrade it and it will be painfully slow to use.
+**WARNING**: Do **NOT** use this EFI if you haven't replaced the original HDD with an SSD. APFS can degrade it and it will be painfully slow to use.
 
 This EFI only works with macOS Big Sur.
 
