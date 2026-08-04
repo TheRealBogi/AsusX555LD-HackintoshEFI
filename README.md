@@ -7,8 +7,11 @@ This EFI only works with macOS Big Sur.
 
 # Specs:
 CPU: Intel Core i3-4030U
+
 RAM: 4GB DDR3L
+
 dGPU: Nvidia GeForce 820M (Disabled)
+
 iGPU: Intel HD Graphics 4400
 
 # Known Issues:
