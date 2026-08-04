@@ -23,7 +23,7 @@ iGPU: Intel HD Graphics 4400
 WiFi Card: Atheros AR956x
 
 # Known Issues:
-- The brightness is low and changing it doesn't work until you put the computer in sleep mode and wake it up.
+- The brightness is low and changing it doesn't work until you put the laptop in sleep mode and wake it up.
 - The microphone is quiet and there's a buzzing sound in the background.
 
 # Reporting bugs
