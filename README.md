@@ -16,11 +16,13 @@ CPU: Intel Core i3-4030U
 
 RAM: 4GB DDR3L
 
-dGPU: Nvidia GeForce 820M (Disabled)
+dGPU: NVIDIA GeForce 820M (Disabled)
 
 iGPU: Intel HD Graphics 4400
 
 WiFi Card: Atheros AR956x
+
+DVD Drive: None (if your variant has a DVD drive, it (obviously) won't work)
 
 # Known Issues:
 - The brightness is low and changing it doesn't work until you put the laptop in sleep mode and wake it up.
